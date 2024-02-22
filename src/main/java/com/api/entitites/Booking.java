@@ -22,7 +22,7 @@ public class Booking {
 //
 //	private String movieName;
 
-    //private LocalTime showTime;//have entity
+    //private LocalTime showTime;//have entity   //what are you doing
 
     private String location; //from cinema hall
 
